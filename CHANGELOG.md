@@ -1,3 +1,6 @@
+0.10.2 - April 8, 2025
+* android: update gradle command.
+
 0.10.1 - July 5, 2017
 * windows: added compatibility with VS2017
 * android: upgraded ADAL native SDK version to 1.12.0 
